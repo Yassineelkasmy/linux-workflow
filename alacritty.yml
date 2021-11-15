@@ -1,0 +1,11 @@
+font:
+  size:
+    16.0
+bell:
+  animation: EaseOutExpo
+  color: '0xffffff'
+  duration: 0
+
+# Background opacity
+window:
+  opacity: 0.8
