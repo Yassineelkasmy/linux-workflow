@@ -106,4 +106,4 @@ call plug#end()
 
 
 autocmd VimEnter * hi Normal guibg=NONE ctermbg=NONE
-
+colorscheme gruvbox
