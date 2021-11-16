@@ -99,6 +99,9 @@ Plug 'tpope/vim-fugitive'
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
+
+" Nerdtree
+Plug 'scrooloose/nerdtree'
 call plug#end()
 
 
